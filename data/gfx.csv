@@ -98,8 +98,8 @@ Spirit Mask,invdr5
 Jawbone Cap,invba1
 Fanged Helm,invba2
 Horned Helm,invba3
-Assault Helmet,invba4
-Avenger Guard,invba5
+Assault Helmet,invaslh
+Avenger Guard,invavgr
 Targe,invpa1
 Rondache,invpa2
 Heraldic Shield,invpa3
@@ -845,7 +845,7 @@ Arctic Binding,invvbl
 Arctic Furs,invqlt
 Arctic Horn,invswb
 Arctic Mitts,invtgl
-Bane's Authority,invvbl
+Bane's Authority,invbnsp
 Bane's Oathmaker,invdgr
 Bane's Wraithskin,invhla
 Berserker's Hatchet,inv2ax
@@ -868,7 +868,7 @@ Cow King's Hide,invstu
 Cow King's Hoofs,invvbt
 Cow King's Horns,invcap
 Credendum,invmbl
-Dangoon's Teaching,invmac
+Dangoon's Teaching,invdang
 Death's Guard,invlbl
 Death's Hand,invlgl
 Death's Touch,invwsd
@@ -877,8 +877,8 @@ Griswold's Honor,invpa5
 Griswold's Valor,invcrn
 Griswolds's Redemption,invwsp
 Guillaume's Face,invghm
-Haemosu's Adament,invbrs
-Heaven's Taebaek,invgts
+Haemosu's Adament,invhaem
+Heaven's Taebaek,invhvtb
 Horazon's Countenance,invhcnt
 Horazon's Dominion,invspl
 Horazon's Hold,invlgl
@@ -930,7 +930,12 @@ Natalya's Mark,invskr
 Natalya's Shadow,invscl
 Natalya's Soul,invmbt
 Natalya's Totem,invbhm
-Ondal's Almighty,invghm
+Ondal's Almighty,invonda
+Bulkathos' Nightmare,invblkn
+Korlic's Pain,invkorl
+Madawc's Ire,invmdwc
+Talic's Anguish,invtalc
+Worusk's End,invwrsk
 Rite of Passage,invlbt
 Sazabi's Cobalt Redeemer,invlsd
 Sazabi's Ghost Liberator,invspl
@@ -969,3 +974,8 @@ Warlord's Lust,invghm
 Warlord's Mantle,invful
 Wihtstan's Guard,invsml
 Wilhelm's Pride,invtbl
+Ars Al'Diablolos,invaard
+Ars Tor'Baalos,invatbr
+Dreadfang,invdread
+Measured Wrath,invmeasu
+Unique Warlock Helm,invuniqu
