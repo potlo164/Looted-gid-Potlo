@@ -347,7 +347,7 @@ Baal's Eye,inveye
 Mephisto's Brain,invbrnz
 Token of Absolution,invtoa
 Twisted Essence of Suffering,invtes
-Charged Essense of Hatred,invceh
+Charged Essence of Hatred,invceh
 Burning Essence of Terror,invbet
 Festering Essence of Destruction,invfed
 Standard of Heroes,invflag
@@ -829,7 +829,8 @@ Uber Ancient Upgrade Material  Fire,invflag
 Uber Ancient Upgrade Material Lightning,invflag
 Uber Ancient Upgrade Material Magic,invflag
 Uber Ancient Upgrade Material Physical,invflag
-Uber Ancient Upgrade Material Poison,invflagAldur's Advance,invtbt
+Uber Ancient Upgrade Material Poison,invflag
+Aldur's Advance,invtbt
 Aldur's Deception,invful
 Aldur's Gauntlet,invmst
 Aldur's Stony Gaze,invdr3
