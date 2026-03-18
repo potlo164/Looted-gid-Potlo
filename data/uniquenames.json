@@ -1,7 +1,7 @@
 {
   "description": "Liste complète des noms d'items uniques pour la détection",
   "version": "D2R 3.0 (RotW)",
-  "totalItems": 415,
+  "totalItems": 414,
   "uniqueNames": [
     "Alma Negra",
     "Amulet of the Viper",
@@ -416,7 +416,6 @@
     "Korlic's Pain",
     "Madawc's Ire",
     "Measured Wrath",
-    "Talic's Anguish",
-    "Worusk's End"
+    "Talic's Anguish"
   ]
 }
