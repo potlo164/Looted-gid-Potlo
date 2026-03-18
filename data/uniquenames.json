@@ -1,7 +1,7 @@
 {
   "description": "Liste complète des noms d'items uniques pour la détection",
-  "version": "D2R 2.6",
-  "totalItems": 403,
+  "version": "D2R 3.0 (RotW)",
+  "totalItems": 415,
   "uniqueNames": [
     "Alma Negra",
     "Amulet of the Viper",
@@ -405,6 +405,18 @@
     "Wormskull",
     "Wraithflight",
     "Zakarum's Hand",
-    "Zakarum's Salvation"
+    "Zakarum's Salvation",
+    "Ars Al'Diablolos",
+    "Ars Dul'Mephistos",
+    "Ars Tor'Baalos",
+    "Avenger Guard",
+    "Bloodpact Shard",
+    "Bul-Kathos' Nightmare",
+    "Dreadfang",
+    "Korlic's Pain",
+    "Madawc's Ire",
+    "Measured Wrath",
+    "Talic's Anguish",
+    "Worusk's End"
   ]
 }
