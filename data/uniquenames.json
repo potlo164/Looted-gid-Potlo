@@ -1,7 +1,7 @@
 {
   "description": "Liste complète des noms d'items uniques pour la détection",
   "version": "D2R 3.0 (RotW)",
-  "totalItems": 416,
+  "totalItems": 439,
   "uniqueNames": [
     "Alma Negra",
     "Amulet of the Viper",
@@ -416,8 +416,31 @@
     "Korlic's Pain",
     "Madawc's Ire",
     "Measured Wrath",
+    "Defender's Bile",
+    "Defender's Fire",
+    "Entropy Locket",
     "Gheed's Wager",
+    "Guardian's Light",
+    "Guardian's Thunder",
     "Hellwarden's Will",
-    "Talic's Anguish"
+    "Latent Black Cleft",
+    "Latent Bone Break",
+    "Latent Cold Rupture",
+    "Latent Crack of the Heavens",
+    "Latent Flame Rift",
+    "Latent Rotting Fissure",
+    "Opalvein",
+    "Protector's Frost",
+    "Protector's Stone",
+    "Renewed Black Cleft",
+    "Renewed Bone Break",
+    "Renewed Cold Rupture",
+    "Renewed Crack of the Heavens",
+    "Renewed Flame Rift",
+    "Renewed Rotting Fissure",
+    "Skull Collector",
+    "Sling",
+    "Talic's Anguish",
+    "Wraithstep"
   ]
 }
